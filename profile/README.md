@@ -58,18 +58,18 @@ Founded in 1902, Nanchang High School is one of the first batches of outstanding
 
 ## 🌐 Connect With Us
 
-Explore our daily vlogs, competition highlights, and behind-the-scenes moments on our official media channels:
+Explore our social media:
 
 <div align="center">
   <br>
   <a href="https://b23.tv/T9w0tBK" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-1E1E2E?style=for-the-badge&logo=bilibili&logoColor=FF8EB3" alt="Bilibili"/>
   </a>
-  &nbsp;&nbsp;
+   
   <a href="https://xhslink.com/m/21F6IseEz9S" target="_blank">
     <img src="https://img.shields.io/badge/Xiaohongshu-小红书-1E1E2E?style=for-the-badge&logo=xiaohongshu&logoColor=FF2442" alt="Xiaohongshu"/>
   </a>
-  &nbsp;&nbsp;
+    
   <a href="https://v.douyin.com/dmuxzP_0TZA/" target="_blank">
     <img src="https://img.shields.io/badge/Douyin-抖音-1E1E2E?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="Douyin"/>
   </a>
@@ -79,6 +79,5 @@ Explore our daily vlogs, competition highlights, and behind-the-scenes moments o
 ---
 
 <div align="center">
-  <p><i>Copyright © Nanchang High School AI. All rights reserved.</i></p>
-  <p><i>Innovating the future at <a href="https://github.com/nchs-ai">@nchs-ai</a></i></p>
+  <p><i>Copyright © Nanchang High School. All rights reserved.</i></p>
 </div>
